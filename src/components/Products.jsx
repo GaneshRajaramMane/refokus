@@ -35,7 +35,7 @@ function Products(){
             initial={{y:pos,x:"-50%"}} 
             animate={{y:pos+'rem'}}
             transition={{ease:[0.76, 0, 0.24, 1],duration:.5}}
-            className={`window w-[32rem] h-[23rem] absolute  left-[40%] bg-sky-100 overflow-hidden opacity-${visible}`}>
+            className={`window w-[32rem] h-[23rem] absolute  left-[40%] bg-sky-100 overflow-hidden ${visible ? 'visible' : 'invisible'}`}>
            
            
             <motion.div 
