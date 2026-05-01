@@ -1,8 +1,28 @@
-# React + Vite
+# Aesthetic Animation Website Clone (Refokus Inspired)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a modern animated website inspired by Refokus. It focuses on smooth animations, interactive UI elements, and a clean, aesthetic design.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Smooth scroll-based animations
+- Interactive hover effects and transitions
+- Minimal and visually appealing UI
+- Fully responsive layout
+- High-quality motion and animation effects
+
+## 🎯 Purpose
+
+The goal of this project was to explore advanced animation techniques and build an engaging user experience with smooth interactions and modern design patterns.
+
+## 📸 Demo
+
+Live: https://your-live-link.vercel.app  
+GitHub: https://github.com/your-username/refokus-clone
+
+## ⚠️ Note
+
+This project is inspired by Refokus and is created for learning purposes only. All design credits belong to the original creators.
+
+## 🤖 AI Assistance
+
+This project was built with assistance from AI tools (ChatGPT) for guidance and debugging. All implementation decisions were made by me.
